@@ -1,0 +1,11 @@
+destination,city,country,price_cad,airline,outbound_stops,outbound_duration_minutes
+PUJ,Punta Cana,Dominican Republic,529,WestJet,0,420
+MBJ,Montego Bay,Jamaica,544,WestJet,1,1140
+BZE,Belize City,Belize,550,WestJet,1,510
+NAS,Nassau,Bahamas,615,Air Canada,1,550
+SXM,Sint Maarten,Sint Maarten,628,WestJet,2,910
+UVF,Vieux Fort,Saint Lucia,632,WestJet,2,880
+LIM,Lima,Peru,667,United,1,837
+SJU,San Juan,Puerto Rico,672,United,1,565
+POS,Port of Spain,Trinidad and Tobago,704,United,1,800
+GCM,George Town,Cayman Islands,738,WestJet,1,760
